@@ -4,5 +4,5 @@ Keras-RL + OpenAI Gym:
 Jupyter Notebook:
 
 Examples:
-1. CartPole
-2. Atari
+1. Atari:Breakout
+2. CartPole(not yet)
