@@ -1,5 +1,5 @@
 # Keras-RL
-Keras-RL + OpenAI Gym:
+[Keras-RL](https://github.com/keras-rl/keras-rl) + [OpenAI Gym](https://gym.openai.com):
 
 Jupyter Notebook:
 
@@ -8,4 +8,3 @@ Examples:
    saved weight: dqn_BreakoutDeterministic-v4_weights_1750000.h5f
 2. CartPole(not yet)
 
-[google]: http://google.com/        "Google"
