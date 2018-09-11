@@ -1,5 +1,5 @@
 # Keras-RL
-[Keras-RL](https://github.com/keras-rl/keras-rl) + [OpenAI Gym](https://gym.openai.com):
+[Keras-RL](https://github.com/keras-rl/keras-rl) + [OpenAI Gym](https://github.com/openai/gym):
 
 Jupyter Notebook:
 
